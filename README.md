@@ -6,7 +6,7 @@ The scope of our final project consists of using multiple technologies to accomp
 
 The project consists of building a tool that can analyze tweet sentiment on specific words, based on machine learning. The user would be able to look for certain hashtags, then extracts the tweets that talk about that specific subject, apply the machine learning model to categorize the sentiment of the tweets
 
-I was responsible for creating the mockup of the database and giving support to follow the metholodology in order to have a achieve the stetps required like Business Understanding, Data Understanding, Data Preparation, Modelling, Evaluation and Deployment.
+I was responsible for creating the mockup of the database and giving support to follow the metholodology in order to achieve the stetps required like Business Understanding, Data Understanding, Data Preparation, Modelling, Evaluation and Deployment.
 
 All members of the team participated in the decision making process, so everybody agreed with the process the results. It is important to mention that we communicated all the actions made by each member of the team, in order to have everybody aware about the advances. Also, each member, helped each other in solving doubts and difficulties.  
 
